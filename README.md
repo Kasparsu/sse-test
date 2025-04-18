@@ -1,3 +1,3 @@
 # SSE CHAT
 ### run
-`npm run start`
+`npm start`
